@@ -1,0 +1,1 @@
+1. there is not "i++" statement in python, you have to use i = i + 1 OR i += 1 statement
